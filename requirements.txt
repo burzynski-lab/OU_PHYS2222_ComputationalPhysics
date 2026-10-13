@@ -1,0 +1,9 @@
+# Mirrors what Google Colab ships with; only needed for local installs or Codespaces.
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+torch
+jupyterlab
+ipywidgets

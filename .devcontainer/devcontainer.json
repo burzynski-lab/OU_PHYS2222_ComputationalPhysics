@@ -1,0 +1,10 @@
+{
+  "name": "PHYS 2222",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+# Solutions are kept in a separate private repository.
+Solutions/
+*_solution*.ipynb
